@@ -8,8 +8,8 @@ A lot of the street vendors located nearby MTA stations have shut down their bus
 
 ## Design
 
-    Most customers for the street vendors nearby MTA stations come from the commuters. Thus, it makes sense to use the ridership of stations as an indicator of the amounts of the customers. It also makes sense to use the counts of entries of turnstile to represent the ridership. 
-    COVID-19 outbreak occurs on March 2020. Thus, two time points, March 2019 and March 2022, are chosen to be the representative before and after the outbreak, respectively. The ratio of the monthly ridership of these 2 time points represents the ridership changes. This strategy allows to identify the stations with the high and low ridership reduction. The daily ridership across a week of these stations is then profiled to determine the daily ridership changes due to the pandemic. 
+Most customers for the street vendors nearby MTA stations come from the commuters. Thus, it makes sense to use the ridership of stations as an indicator of the amounts of the customers. It also makes sense to use the counts of entries of turnstile to represent the ridership. 
+COVID-19 outbreak occurs on March 2020. Thus, two time points, March 2019 and March 2022, are chosen to be the representative before and after the outbreak, respectively. The ratio of the monthly ridership of these 2 time points represents the ridership changes. This strategy allows to identify the stations with the high and low ridership reduction. The daily ridership across a week of these stations is then profiled to determine the daily ridership changes due to the pandemic. 
 
 
 ## Data
@@ -40,6 +40,6 @@ A lot of the street vendors located nearby MTA stations have shut down their bus
 * •	Most of the stations with the high ridership reduction are located Manhattan borough and one of the stations shows that the ridership dropped more in the weekday than in weekend. Thus, these street vendors may consider to relocate or reduce their business scales.
 
 
-![image](https://user-images.githubusercontent.com/71529189/116646421-00228800-a946-11eb-828f-de34c8045a81.png)
+![image](https://github.com/chiouNT/Metis_EDA/blob/main/image1.png)
 
-![image](https://user-images.githubusercontent.com/71529189/116648147-585b8900-a94a-11eb-9afd-6a698e32b31d.png)
+![image](https://github.com/chiouNT/Metis_EDA/blob/main/image2.png)
