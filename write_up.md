@@ -43,6 +43,6 @@ COVID-19 outbreak occurs on March 2020. Thus, two time points, March 2019 and Ma
 
 * One of the stations with the high ridership reduction shows that the ridership dropped more in the weekday than in weekend. 
 
-![alt text](https://github.com/chiouNT/Metis_EDA/blob/main/Image2.png)
+![alt text](https://github.com/chiouNT/Metis_EDA/blob/main/Image3.png)
 
  Therefore, street vendors located at these stations may consider to relocate or reduce their business scales.
