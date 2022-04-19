@@ -17,8 +17,8 @@ COVID-19 outbreak occurs on March 2020. Thus, two time points, March 2019 and Ma
   * [Link: Turnstile Data](http://web.mta.info/developers/turnstile.html)
 
 * Geographic data of MTA stations
-  * [Link: Correlation of station name to complex id (http://web.mta.info/developers/data/nyct/subway/Stations.csv)
-  * [Link: Correlation of complex id to borough (https://qri.cloud/nyc-transit-data/remote_complex_lookup)
+  * [Link: Correlation of station name to complex id](http://web.mta.info/developers/data/nyct/subway/Stations.csv)
+  * [Link: Correlation of complex id to borough](https://qri.cloud/nyc-transit-data/remote_complex_lookup)
   
 ## Algorithms
 
@@ -42,7 +42,7 @@ COVID-19 outbreak occurs on March 2020. Thus, two time points, March 2019 and Ma
 ![alt text](https://github.com/chiouNT/Metis_EDA/blob/main/Image1.png)
 
 * One of the stations with the high ridership reduction shows that the ridership dropped more in the weekday than in weekend. 
-* 
+
 ![alt text](https://github.com/chiouNT/Metis_EDA/blob/main/Image2.png)
 
- There, street vendors located at these stations may consider to relocate or reduce their business scales.
+ Therefore, street vendors located at these stations may consider to relocate or reduce their business scales.
