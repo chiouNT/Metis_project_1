@@ -17,8 +17,8 @@ COVID-19 outbreak occurs on March 2020. Thus, two time points, March 2019 and Ma
   * [Link: Turnstile Data](http://web.mta.info/developers/turnstile.html)
 
 * Geographic data of MTA stations
-  * Correlation of station name to complex id [Link: Detailed Annual Sales Reports by Borough](http://web.mta.info/developers/data/nyct/subway/Stations.csv)
-  * Correlation of complex id to borough [Link: https://qri.cloud/nyc-transit-data/remote_complex_lookup)
+  * Correlation of station name to complex id ((Link: http://web.mta.info/developers/data/nyct/subway/Stations.csv)
+  * Correlation of complex id to borough (Link: https://qri.cloud/nyc-transit-data/remote_complex_lookup)
   
 ## Algorithms
 
@@ -41,5 +41,5 @@ COVID-19 outbreak occurs on March 2020. Thus, two time points, March 2019 and Ma
 
 ![alt text](https://github.com/chiouNT/Metis_EDA/blob/main/Image1.png)
 
-![alt text](https://github.com/chiouNT/Metis_EDA/blob/main/image2.png)
+![alt text](https://github.com/chiouNT/Metis_EDA/blob/main/Image2.png)
 
