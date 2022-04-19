@@ -37,9 +37,9 @@ COVID-19 outbreak occurs on March 2020. Thus, two time points, March 2019 and Ma
 
 
 ## Communication
-* •	Most of the stations with the high ridership reduction are located Manhattan borough and one of the stations shows that the ridership dropped more in the weekday than in weekend. Thus, these street vendors may consider to relocate or reduce their business scales.
+* Most of the stations with the high ridership reduction are located Manhattan borough and one of the stations shows that the ridership dropped more in the weekday than in weekend. Thus, these street vendors may consider to relocate or reduce their business scales.
 
-![alt text](https://github.com/chiouNT/Metis_EDA/blob/main/image1.png)
+![alt text](https://github.com/chiouNT/Metis_EDA/blob/main/Image1.png)
 
 ![alt text](https://github.com/chiouNT/Metis_EDA/blob/main/image2.png)
 
