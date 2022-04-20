@@ -22,7 +22,7 @@ Most customers for the street vendors nearby MTA stations come from the commuter
   
 ## Algorithms
 
-* Filter MTA dataset to contain the data of 3/1-3/31 of 2019, 2020 and 2022.
+* Filter MTA dataset to contain the data of 3/1-3/31 of 2019, 2020, 2022 and 4/1-4/30 of 2020.
 * Covert the cumulative values of the entries to daily values.
 * Use the functions to remove the errors of the counts of the turnstiles.
 * Aggregation the data at the station level to get the monthly entry values.
