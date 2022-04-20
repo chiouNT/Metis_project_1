@@ -27,22 +27,23 @@ Most customers for the street vendors nearby MTA stations come from the commuter
 * Use the functions to remove the errors of the counts of the turnstiles.
 * Aggregation the data at the station level to get the monthly entry values.
 * Calculation and sorting of the ratio of the monthly entry values.
+* Make lists of entry counts for days of a week for one station.
 
 
 ## Tools
-* SQLAlchemy: load SQL tables are load into Python
+* SQLAlchemy: load SQL tables into Python
 * Pandas: Data cleaning and analysis
 * Matplotlib: data visualization
 * Numby: generation of the positions of bar on X axis
 
 
 ## Communication
-* Most of the stations with the high ridership reduction are located Manhattan borough.
+* Most of the stations with the high ridership reduction are located at Manhattan borough.
 
 ![alt text](https://github.com/chiouNT/Metis_EDA/blob/main/Image1.png)
 
-* One of the stations with the high ridership reduction shows that the ridership dropped more in the weekday than in weekend. 
+* The ridership dropped more in the weekday than in weekend for Wall ST station. 
 
 ![alt text](https://github.com/chiouNT/Metis_EDA/blob/main/Image3.png)
 
- Therefore, street vendors located at these stations may consider to relocate or reduce their business scales.
+ Therefore, street vendors located at these stations may consider to relocate or reduce their business scales during the weekday.
