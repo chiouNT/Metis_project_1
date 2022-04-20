@@ -14,7 +14,7 @@ Most customers for the street vendors nearby MTA stations come from the commuter
 ## Data
 * The MTA turnstile dataset  
   * [Link: Turnstile Data](http://web.mta.info/developers/turnstile.html)
-  * The data on March 2019, March 2020, April 2020 and March 2022 are retrieved
+  * The dataset on March 2019, March 2020, April 2020 and March 2022 are retrieved
 
 * Geographic data of MTA stations
   * [Link: Correlation of station name to complex id](http://web.mta.info/developers/data/nyct/subway/Stations.csv)
