@@ -26,7 +26,7 @@ Most customers for the street vendors nearby MTA stations come from the commuter
 * Covert the cumulative values of the entries to daily values.
 * Use the functions to remove the errors of the counts of the turnstiles.
 * Aggregation the data at the station level to get the monthly entry values.
-* Calculation of the ratio of the monthly entry values.
+* Calculation and sorting of the ratio of the monthly entry values.
 
 
 ## Tools
