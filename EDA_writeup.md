@@ -8,8 +8,7 @@ A lot of the street vendors located nearby MTA stations have shut down their bus
 
 ## Design
 
-Most customers for the street vendors nearby MTA stations come from the commuters. Thus, it makes sense to use the ridership of stations as an indicator of the amounts of the customers. It also makes sense to use the counts of entries of turnstile to represent the ridership. 
-COVID-19 outbreak occurs on March 2020. Thus, two time points, March 2019 and March 2022, are chosen to be the representative before and after the outbreak, respectively. The ratio of the monthly ridership of these 2 time points represents the ridership changes. This strategy allows to identify the stations with the high and low ridership reduction. The daily ridership across a week of these stations is then profiled to determine the daily ridership changes due to the pandemic. 
+Most customers for the street vendors nearby MTA stations come from the commuters. Thus, it makes sense to use the ridership of stations as an indicator of the amounts of the customers. It also makes sense to use the counts of entries of turnstile to represent the ridership. For time points before and after COVID-19 outbreak, March 2019 and March 2022 are chosen. The ratio of the monthly ridership of these 2 time points represents the ridership changes. This strategy allows us to identify the stations with the high and low ridership reduction. The daily ridership across a week of these stations is then further profiled to determine the daily ridership changes due to the pandemic. The monthly and daily ridership chagnes will be informative for the street vendors to determine whehter they should relocate or reduce the bussiness scales for the reopening.
 
 
 ## Data
