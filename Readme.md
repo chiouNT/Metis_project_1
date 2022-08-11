@@ -1,5 +1,3 @@
-write_up (Ni-Ting Chiou)
-
 # EDA project: The subway ridership changes: an insight for the street vendor’s reopening
 
 ## Abstract
